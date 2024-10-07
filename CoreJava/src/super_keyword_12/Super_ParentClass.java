@@ -1,4 +1,4 @@
-package super_keyword;
+package super_keyword_12;
 
 public class Super_ParentClass {
 	

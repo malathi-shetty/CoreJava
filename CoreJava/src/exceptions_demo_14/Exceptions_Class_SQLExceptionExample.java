@@ -1,4 +1,4 @@
-package exceptions_demo;
+package exceptions_demo_14;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
