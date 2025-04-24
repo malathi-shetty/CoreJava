@@ -2,7 +2,6 @@ package date_classes_10;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
-import java.util.Date;
 
 public class Calendar_Date_Classes {
 

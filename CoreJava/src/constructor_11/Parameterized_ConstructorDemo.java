@@ -40,3 +40,13 @@ public class Parameterized_ConstructorDemo {
 	}
 
 }
+
+/*
+
+*I am the Constructor
+******
+*I am the int Parameterized Constructor: 9
+---
+*I am the String Parameterized Constructor: hello
+
+*/

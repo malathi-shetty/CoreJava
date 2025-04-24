@@ -33,3 +33,16 @@ public class ConstructorDemo {
 	}
 
 }
+
+/* output: 
+
+I am the Constructor
+
+Define variables
+
+Initiate properties in real time framework 
+
+******
+I am the method
+
+*/

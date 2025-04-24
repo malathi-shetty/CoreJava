@@ -1,0 +1,18 @@
+What is Regex?
+Regex (short for Regular Expression) is a sequence of characters that defines a search pattern. 
+It is widely used for string pattern matching, validations, and data parsing.
+
+In Java, regex is supported by the java.util.regex package.
+
+ Key Classes in Java Regex
+Pattern: A compiled representation of a regular expression.
+
+
+Matcher: An engine that performs match operations on a character sequence using a Pattern.
+
+ Tips:
+Use regex in assertions with API responses.
+
+Clean dynamic values from logs before validation.
+
+Validate formats (email, timestamp, ID) using .matches().
